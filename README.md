@@ -1,8 +1,7 @@
 Hi, I'm Chris22426, or Chris for short. 
-I am a mentally insane Python programmer. 
-I specialise in developing Discord bots in Python using the discord.py library. 
-I'm also experienced in controlling and manipulating a MongoDB Database using the pymongo library. 
-I also have experience with making games using Unreal Engine. 
+I am a Python programmer. 
+I specialise in developing Discord bots in Python using the discord.py library, but have experience in a few other sectors as well, with many other librarys. 
+I also have experience with making games using Unreal Engine.
 If you have any enquiries, feel free to leave me an email at chris270305@icloud.com or message me on Discord (Chris22426#0001).
 
 <!---
