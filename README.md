@@ -1,6 +1,6 @@
-Hi, I'm Chris22426, or Chris for short. 
+Hi, I'm Chris. 
 I am a Python programmer. 
-I specialise in developing Discord bots in Python using the discord.py library, but have experience in a few other sectors as well, with many other librarys. 
+I specialise in developing Discord bots using the discord.py library, but have experience in a few other sectors as well, with many other librarys. 
 I also have experience with making games using Unreal Engine.
 If you have any enquiries, feel free to leave me an email at chris270305@icloud.com or message me on Discord (Chris22426#0001).
 
